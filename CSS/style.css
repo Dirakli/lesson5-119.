@@ -1,0 +1,151 @@
+/*header*/
+.header {
+	background: #F6F8F9;
+	height: 50px;
+	width: 100%;
+	padding: 15px;
+}
+.logo {
+	color: #FA6980;
+	font-size: 13px;
+	margin-left: 20px;
+}
+.navigation {
+	display: inline-block;
+	font-size: 11px;
+	color: #343638;
+}
+.ul-li {
+	display: inline-block;
+	margin-left: 15px;
+}
+.home {
+	margin-left: 50px;
+}
+/*paddin-margin error*/
+.header-photo {
+	margin-left: 50px;
+	vertical-align: middle;
+}
+/*section1*/
+.section1 {
+	background: #F6F8F9;
+}
+.div-main {
+	position: relative;
+	display: inline-block;
+	margin-top: 25px;
+	margin-left: 140px;
+	
+}
+.div1 {
+	width: 361px;
+	height: 355px;
+	display: inline-block;
+	background: white;
+
+}
+.nature {
+	margin-right: 35px;
+}
+.div1-text {
+	display: inline-block;
+	font-size: 13px;
+	color: #A6ADB4;
+	margin-top: 60px;
+	margin-left: 38px;
+	margin-right: 38px;
+}
+.time-icon {
+	margin-top: 10px;
+	margin-left: 38px;
+}
+.time {
+	display: inline-block;
+	color: #A6ADB4;
+	font-size: 13px;
+	margin-top: 11px;
+}
+.ondiv1 {
+	position: absolute;
+	color: white;
+	font-style: italic;
+	top: 100px;
+	left: 120px;
+} 
+/*end*/
+
+
+/*div2*/
+.div2 {
+	width: 361px;
+	height: 355px;
+	display: inline-block;
+	background: white;
+
+}
+.umbrella {
+}
+.div1-text {
+	display: inline-block;
+	font-size: 13px;
+	color: #A6ADB4;
+	margin-top: 60px;
+	margin-left: 38px;
+	margin-right: 38px;
+}
+.time-icon {
+	margin-top: 10px;
+	margin-left: 38px;
+}
+.time {
+	display: inline-block;
+	color: #A6ADB4;
+	font-size: 13px;
+	margin-top: 11px;
+}
+.ondiv2 {
+	position: absolute;
+	color: white;
+	font-style: italic;
+	top: 100px;
+	left: 450px;
+}
+/*end*/
+
+/*div3*/
+.div3 {
+	width: 361px;
+	height: 355px;
+	display: inline-block;
+	background: white;
+
+}
+.umbrella {
+}
+.div3-text {
+	display: inline-block;
+	font-size: 13px;
+	color: #A6ADB4;
+	margin-top: 60px;
+	margin-left: 38px;
+	margin-right: 38px;
+}
+.time-icon {
+	margin-top: 10px;
+	margin-left: 38px;
+}
+.time {
+	display: inline-block;
+	color: #A6ADB4;
+	font-size: 13px;
+	margin-top: 11px;
+}
+.ondiv2 {
+	position: absolute;
+	color: white;
+	font-style: italic;
+	top: 100px;
+	left: 450px;
+}
+/*section2*/
