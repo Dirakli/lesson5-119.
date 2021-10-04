@@ -27,9 +27,13 @@
 	margin-left: 50px;
 	vertical-align: middle;
 }
+.main {
+	background-color: #F6F8F9;
+	height: 1487px;
+}
 /*section1*/
 .section1 {
-	background: #F6F8F9;
+	background-color: #F6F8F9;
 }
 .div-main {
 	position: relative;
@@ -43,6 +47,7 @@
 	height: 355px;
 	display: inline-block;
 	background: white;
+	vertical-align: top;
 
 }
 .nature {
@@ -82,7 +87,8 @@
 	height: 355px;
 	display: inline-block;
 	background: white;
-
+	vertical-align: top;
+	margin-left: 35px;
 }
 .umbrella {
 }
@@ -115,13 +121,12 @@
 
 /*div3*/
 .div3 {
+	display: inline-block;
+	background-color: white;
 	width: 361px;
 	height: 355px;
-	display: inline-block;
-	background: white;
-
-}
-.umbrella {
+	vertical-align: top;
+	margin-left: 35px;
 }
 .div3-text {
 	display: inline-block;
@@ -141,11 +146,99 @@
 	font-size: 13px;
 	margin-top: 11px;
 }
-.ondiv2 {
+.ondiv3 {
 	position: absolute;
 	color: white;
 	font-style: italic;
 	top: 100px;
-	left: 450px;
+	left: 810px;
 }
 /*section2*/
+.section2 {
+	background-color: #F6F8F9;
+}
+.section-title {
+	margin-bottom: 40px;
+	font-size: 24px;
+	margin-top: 58px;
+	margin-left: 140px;
+}
+.section2-div1 {
+	display: inline-block;
+	width: 760px;
+	height: 900px;
+	margin-left: 140px;
+}
+.forest {
+	margin-top: 40px;
+}
+.section2-div2 {
+	display: inline-block;
+	width: 360px;
+	height: 900px;
+	margin-left: 40px;
+}
+.parrot {
+	margin-top: 102px;
+}
+.mountain {
+	margin-top: 102px;
+	margin-bottom: 62px;
+}
+/*footer*/
+.footer {
+	padding-left: 142px;
+	padding-top: 47px;
+	width: 100%;
+	height: 200px;
+	background-color: #A6ADB4;
+}
+.footer-logo {
+	display: inline-block;
+	font-size: 13px;
+	vertical-align: top;
+
+}
+.ul1 {
+	vertical-align: top;
+	display: inline-block;
+	color: #CBD0D3;
+	font-size: 13px;
+	margin-left: 50px;
+}
+.ul2 {
+	display: inline-block;
+	color: #CBD0D3;
+	font-size: 13px;
+	margin-left: 50px;	
+}
+.ul3 {
+	vertical-align: top;
+	display: inline-block;
+	color: #CBD0D3;
+	font-size: 13px;
+	margin-left: 50px;	
+}
+.footer-text {
+	vertical-align: top;
+	display: inline-block;
+	font-size: 13px;
+	color: #CBD0D3;
+	margin-left: 105px;
+}
+.instagram {
+	vertical-align: top;
+	margin-left: 165px;
+}
+.twitter {
+	vertical-align: top;
+	margin-left: 20px;
+}
+.facebook {
+	vertical-align: top;
+	margin-left: 20px;
+}
+.web {
+	vertical-align: top;
+	margin-left: 20px;
+}
